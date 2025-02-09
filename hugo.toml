@@ -1,0 +1,18 @@
+baseURL = "http://glim-midnight.pages.dev"
+languageCode = "en-us"
+theme = "glim-midnight-main"
+
+[params]
+    title = "Jessica Li"
+    phrases = ["About", "Blog(COMING SOON)", "Projects", "Contact"]
+    links = [
+        {name = "About", url = "/about/"},
+        {name = "Blog", url = "/blog/", newTab = true},
+        {name = "Projects", url = "/projects/"},
+        {name = "Email me!", url = "mailto:jessicajli507@gmail.com"},
+    ]
+backgroundVideo= "bg.mp4"
+footer = "pooop fart"
+publishDir = "docs"
+baseURL = "https://jli-928.github.io/personal_site/"
+
