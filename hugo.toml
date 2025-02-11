@@ -1,4 +1,4 @@
-baseURL = "http://glim-midnight.pages.dev"
+baseURL = "https://jli-928.github.io/jli-928.github.io/"
 languageCode = "en-us"
 theme = "glim-midnight-main"
 
@@ -11,8 +11,8 @@ theme = "glim-midnight-main"
         {name = "Projects", url = "/projects/"},
         {name = "Email me!", url = "mailto:jessicajli507@gmail.com"},
     ]
-backgroundVideo= "bg.mp4"
-footer = "pooop fart"
+    backgroundVideo = "bg.mp4"
+    footer = "© 2024 Jessica Li"
+
 publishDir = "docs"
-baseURL = "https://jli-928.github.io/personal_site/"
 
