@@ -9,7 +9,7 @@ theme = "glim-midnight-main"
         {name = "About", url = "/about/"},
         {name = "Blog", url = "/blog/", newTab = true},
         {name = "Projects", url = "/projects/"},
-        {name = "Email me!", url = "mailto:jessicajli507@gmail.com"},
+        {name = "Email me!", url = "mailto:jessiej.li928@gmail.com"},
     ]
     backgroundVideo = "bg.mp4"
     footer = "© 2024 Jessica Li"
